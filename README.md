@@ -47,7 +47,7 @@ Key Features:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/AntonioErdeljac/next-auth-v5-advanced-guide.git
+git clone https://github.com/Wilson635/next-auth-v5.git
 ```
 
 ### Install packages
